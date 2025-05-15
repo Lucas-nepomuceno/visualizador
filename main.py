@@ -21,7 +21,7 @@ layout = [
      sg.Column([[sg.Image(key='-IMG-')]]),
      sg.Push()],
     [sg.Text('Tamanho da imagem:', visible=False, key='-TS-'), sg.Text('', key='-W-', visible=False),sg.Text('x', visible=False, key='-x-'), sg.Text('', key='-H-', visible=False)],
-    [sg.Button('Sair'), sg.In(key='-S-', enable_events=True, visible=False),
+    [sg.Button('Sair'),
      sg.Button(button_text='Salvar', key='-BS-', visible=False)]
 ]
 
