@@ -7,6 +7,4 @@
 
 # Funcionamento do código
 
-Aviso isso será baixar o vídeo em seu computador:
-
-[Assista ao vídeo](video/funcionamento-codigo.mp4)
+[Acesse o arquivo, baixe e assista ao vídeo](video/funcionamento-codigo.mp4)
